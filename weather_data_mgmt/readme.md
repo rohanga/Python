@@ -57,11 +57,16 @@ Each file’s data belongs to one of the five states provided in the problem sta
 We assume that starting five letters of each file form a unique state code. Remaining characters of filename form the station, of which the records have been provided.
 
 
-USC0011 :Nebraska
-USC0012: Iowa
-USC0013: Illinois
-USC0025: Indiana
-USC0033: Ohio
+USC0011
+Nebraska
+USC0012
+Iowa
+USC0013
+Illinois
+USC0025
+Indiana
+USC0033
+Ohio
 
 
 To load data into the database, I have created a management command
